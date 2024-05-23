@@ -7,7 +7,7 @@ Bem-vindo ao ProStarbucks, o meu primeiro projeto desenvolvido com HTML e CSS! E
 Confira a versão ao vivo do projeto: [Starbucks Page](https://starbucks-landing-page.netlify.app/)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="assets/layout-page.png" alt="Captura de Tela do Projeto página Web" width="640" height="416">
+  <img src="assets/layout-page.png" alt="Captura de Tela do Projeto página Web" width="659" height="416">
   <img src="assets/layout-page-mobile.png" alt="Captura de Tela do Projeto página responsiva" width="241" height="416">
 </div>
 
